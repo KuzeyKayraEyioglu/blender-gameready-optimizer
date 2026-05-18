@@ -52,7 +52,12 @@ Perfect for:
 
 ### Latest Version (Recommended)
 
-⬇️ [Download v1.0.0](../../releases/tag/v1.0.0)
+⬇️ **[Download GameReady Optimizer v1.0.0](../../releases/tag/v1.0.0)**
+
+Supports:
+
+- Blender 4.0+
+- Python (Included with Blender)
 
 ---
 
