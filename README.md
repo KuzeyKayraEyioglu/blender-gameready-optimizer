@@ -16,9 +16,9 @@ Optimize Blender models for Unity & Unreal Engine with smart LOD generation.
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-v1.0.0-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Blender-4.0+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blender-4.0%2B-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-100%25-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
