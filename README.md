@@ -1,9 +1,11 @@
 # GameReady Optimizer
 
 <p align="center">
-  <a href="showcase_result.png">
-    <img src="showcase_click.png" width="900"/>
-  </a>
+  <img src="showcase_click.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="showcase_result.png" width="900"/>
 </p>
 
 <p align="center">
