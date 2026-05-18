@@ -155,16 +155,22 @@ This project is licensed under the MIT License.
 
 Created by **Kuzey Kayra Eyioğlu**
 
-### Connect With Me
+---
+
+## Connect With Me
 
 <p align="center">
+  <a href="https://github.com/KuzeyKayraEyioglu">
+    <img src="https://skillicons.dev/icons?i=github" width="90"/>
+  </a>
+  
+  <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="90"/>
+  </a>
+</p>
 
-<a href="https://github.com/KuzeyKayraEyioglu">
-<img src="https://skillicons.dev/icons?i=github" width="90"/>
-</a>
-
-<a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="90"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/KuzeyKayraEyioglu">GitHub</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">YouTube</a>
 </p>
