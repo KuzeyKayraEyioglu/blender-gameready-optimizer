@@ -48,6 +48,14 @@ Perfect for:
 
 ---
 
+## Downloads
+
+### Latest Version (Recommended)
+
+⬇️ [Download v1.0.0](../../releases/tag/v1.0.0)
+
+---
+
 ## Features
 
 ### Smart LOD Generation
