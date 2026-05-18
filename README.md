@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Optimize Blender models for Unity & Unreal Engine with smart LOD generation.
+Optimize Blender models for Unity & Unreal Engine in one click.
 </p>
 
 <p align="center">
@@ -86,6 +86,7 @@ Example:
 
 ```text
 48,918 triangles → 4,890 triangles
+~90% triangle reduction while preserving shape
 ```
 
 while still preserving the overall shape.
