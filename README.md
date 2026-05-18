@@ -1,4 +1,4 @@
-# GameReady Optimizer
+# GameReady Optimize
 
 <p align="center">
   <a href="showcase_result.png">
