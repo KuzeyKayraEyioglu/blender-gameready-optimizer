@@ -163,8 +163,6 @@ Created by **Kuzey Kayra Eyioğlu**
 <img src="https://skillicons.dev/icons?i=github" width="90"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="90"/>
 </a>
