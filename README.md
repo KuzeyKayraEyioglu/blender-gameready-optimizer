@@ -15,12 +15,17 @@ Optimize Blender models for Unity & Unreal Engine with smart LOD generation.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/version-v1.1.0-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blender-4.0+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-100%25-yellow?style=for-the-badge"/>
+</p>
 
-![Version](https://img.shields.io/badge/version-v1.0.0-orange?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-4.0+-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-100%25-yellow?style=for-the-badge)
-
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
 
