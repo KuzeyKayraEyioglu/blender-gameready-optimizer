@@ -1,15 +1,13 @@
 # GameReady Optimizer
 
 <p align="center">
-  <img src="showcase_click.png" width="900"/>
+  <a href="showcase_result.png">
+    <img src="showcase_click.png" width="900"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="showcase_result.png" width="900"/>
-</p>
-
-<p align="center">
-Click the image to see the optimization result.
+<i>Click the image to see the result</i>
 </p>
 
 <p align="center">
