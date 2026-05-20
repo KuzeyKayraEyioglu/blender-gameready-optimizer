@@ -4,7 +4,7 @@
   <a href="showcase_result.png">
     <img src="showcase_click.png" width="900"/>
   </a>
-</p>a
+</p>
 
 <p align="center">
 <i>Click the image to see the result</i>
