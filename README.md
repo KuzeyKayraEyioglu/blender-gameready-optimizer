@@ -90,7 +90,7 @@ Warns you when an object is already low poly.
 ---
 
 
-## Performance Example
+<p align="center">
 
 | Before | After |
 |--------|-------|
@@ -98,7 +98,9 @@ Warns you when an object is already low poly.
 | 4 LODs | Generated Automatically |
 | Manual Setup | One Click |
 
-Reduction: **~90%**
+</p>
+
+🚀 **Up to ~90% Triangle Reduction**
 
 ---
 
