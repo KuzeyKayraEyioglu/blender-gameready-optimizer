@@ -98,9 +98,9 @@ Warns you when an object is already low poly.
 | 4 LODs | Generated Automatically |
 | Manual Setup | One Click |
 
-</p>
-
 🚀 **Up to ~90% Triangle Reduction**
+
+</p>
 
 ---
 
