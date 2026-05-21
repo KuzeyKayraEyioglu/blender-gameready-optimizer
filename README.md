@@ -89,6 +89,34 @@ Warns you when an object is already low poly.
 
 ---
 
+
+## Performance Example
+
+| Before | After |
+|--------|-------|
+| 48,918 Triangles | 4,890 Triangles |
+| 4 LODs | Generated Automatically |
+| Manual Setup | One Click |
+
+Reduction: **~90%**
+
+---
+
+
+## Why GameReady Optimizer?
+
+Many Blender models are not optimized for real-time rendering.
+
+GameReady Optimizer helps developers:
+
+- Reduce triangle count
+- Improve FPS performance
+- Generate LODs faster
+- Prepare assets for Unity and Unreal Engine
+- Save manual optimization time
+
+---
+
 ## Example Result
 
 <p align="center">
