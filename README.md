@@ -90,16 +90,29 @@ Warns you when an object is already low poly.
 ---
 
 
+<h2 align="center">Performance Example</h2>
+
+<table align="center">
+  <tr>
+    <th>Before</th>
+    <th>After</th>
+  </tr>
+  <tr>
+    <td>48,918 Triangles</td>
+    <td>4,890 Triangles</td>
+  </tr>
+  <tr>
+    <td>4 LODs</td>
+    <td>Generated Automatically</td>
+  </tr>
+  <tr>
+    <td>Manual Setup</td>
+    <td>One Click</td>
+  </tr>
+</table>
+
 <p align="center">
-
-| Before | After |
-|--------|-------|
-| 48,918 Triangles | 4,890 Triangles |
-| 4 LODs | Generated Automatically |
-| Manual Setup | One Click |
-
-🚀 **Up to ~90% Triangle Reduction**
-
+🚀 <b>Up to ~90% Triangle Reduction</b>
 </p>
 
 ---
