@@ -138,6 +138,7 @@ GameReady Optimizer helps developers:
   <img src="showcase_result.png" width="900"/>
 </p>
 
+
 Example:
 
 ```text
@@ -237,3 +238,5 @@ Created by **Kuzey Kayra Eyioğlu**
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@KuzeyKayraEyio%C4%9Flu">YouTube</a>
 </p>
+
+---
